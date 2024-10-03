@@ -1,0 +1,20 @@
+a=5
+print(a)
+b=5
+b-=3
+print(b)
+c=10
+c-=5
+print(c)
+d=5
+d/=5
+print(d)
+e=11
+e%=4
+print(e)
+f=3
+f**=2
+print(f)
+g = 5
+g//=2
+print(g)
